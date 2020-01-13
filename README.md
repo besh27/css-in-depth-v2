@@ -9,3 +9,5 @@ This course and others like it are available as part of our Frontend Masters vid
 ### Course Links
 - https://github.com/estelle/cssmastery
 - https://github.com/estelle/CSS-Workshop
+- https://sitepoint.com/relational-and-attriute-selectors-in-css3
+

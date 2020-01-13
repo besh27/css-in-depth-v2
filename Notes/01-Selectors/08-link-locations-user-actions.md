@@ -2,5 +2,5 @@
 
 
 ___
-Move on to [Specificity](09-specificity)  
-Back to [Selectors Main Page](00-selectors)
+Move on to [Specificity](09-specificity.md)  
+Back to [Selectors Main Page](00-selectors.md)

@@ -28,7 +28,7 @@ Good rules to follow:
 - Link :link
 - Active :activeLink
 
-For more information about Relational Selectors and Combinations [see](01-relational-selectors)
+For more information about Relational Selectors and Combinations [see](01-relational-selectors.md)
 
 ### CSS 2
 - All *
@@ -48,7 +48,7 @@ For more information about Relational Selectors and Combinations [see](01-relati
 - :first-letter
 - :first-line
 
-For more information about Attribute Selectors [see](02-attribute-selectors)
+For more information about Attribute Selectors [see](02-attribute-selectors.md)
 
 ### CSS 3
 - ::before
@@ -113,4 +113,4 @@ For more information about Attribute Selectors [see](02-attribute-selectors)
 If an element has a high specificiy 'score' and a similar style later in the cascade, the later one will take precedence. 
 
 ___
-Move on to [Relational Selectors](01-relational-selectors)  
+Move on to [Relational Selectors](01-relational-selectors.md)  

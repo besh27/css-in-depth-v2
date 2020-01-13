@@ -1,5 +1,15 @@
 # Selectors
 
+## Contents
+- [Basic Selectors](#basic-selectors)
+- [CSS Selectors 1](#css-selectors)
+- [CSS2](#css-2)
+- [CSS3](#css-3)
+- [UI Selectors #4](#ui-selectors-4)
+- [More Level 4 Selectors (some may not be supported)](#more-level-4-selectors)
+- [Specificity: How it works](#specificity:-how-it-works)
+- [Specificity and Cascade](#specificity-and-cascade) 
+
 ## Basic Selectors
 - ID
 - Class
@@ -59,7 +69,7 @@ Good rules to follow:
 - element:not(selector)
 - element:target
 
-### UI / Selectors #4
+### UI Selectors 4
 
 - element:enabled
 - element:disabled
@@ -74,7 +84,8 @@ Good rules to follow:
 - element:read-only
 - element:read-write
 
-### More Level 4 Selectors (some may not be supported)
+### More Level 4 Selectors 
+(some may not be supported)
 - :selection
 - :scope-context()
 - :current(s)

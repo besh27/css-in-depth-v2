@@ -7,7 +7,7 @@
 - [CSS3](#css-3)
 - [UI Selectors #4](#ui-selectors-4)
 - [More Level 4 Selectors (some may not be supported)](#more-level-4-selectors)
-- [Specificity: How it works](#specificity:-how-it-works)
+- [Specificity: How it works](#specificity-how-it-works)
 - [Specificity and Cascade](#specificity-and-cascade) 
 
 ## Basic Selectors
@@ -28,6 +28,8 @@ Good rules to follow:
 - Link :link
 - Active :activeLink
 
+For more information about Relational Selectors and Combinations [see](01-relational-selectors)
+
 ### CSS 2
 - All *
 - Direct Child >
@@ -45,6 +47,8 @@ Good rules to follow:
 - :after
 - :first-letter
 - :first-line
+
+For more information about Attribute Selectors [see](02-attribute-selectors)
 
 ### CSS 3
 - ::before
@@ -107,3 +111,6 @@ Good rules to follow:
 ## Specificity and Cascade. 
 
 If an element has a high specificiy 'score' and a similar style later in the cascade, the later one will take precedence. 
+
+___
+Move on to [Relational Selectors](01-relational-selectors)  
